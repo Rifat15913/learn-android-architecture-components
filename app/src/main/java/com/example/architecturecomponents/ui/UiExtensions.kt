@@ -1,4 +1,4 @@
-package com.example.architecturecomponents
+package com.example.architecturecomponents.ui
 
 import android.content.res.ColorStateList
 import android.graphics.drawable.RippleDrawable
