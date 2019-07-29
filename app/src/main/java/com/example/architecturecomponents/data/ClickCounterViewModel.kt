@@ -2,6 +2,6 @@ package com.example.architecturecomponents.data
 
 import androidx.lifecycle.ViewModel
 
-class ClickCounterViewModel : ViewModel() {
-    var count: Int = 0
+open class ClickCounterViewModel : ViewModel() {
+    open var count: Int = 0
 }
